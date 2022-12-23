@@ -1,0 +1,7 @@
+pip install fastapi
+
+pip install unicorn
+
+ uvicorn myapp:app --reload
+ 
+ to "http://127.0.0.1:8000/docs"
